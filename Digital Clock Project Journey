@@ -1,0 +1,21 @@
+📌 Project Journey – Digital Clock:
+
+1. Start (Setup & Structure)
+
+The project contains 4 files:
+
+index.html – Structure of the clock (HTML skeleton).
+
+style.css – Styling of the clock (colors, layout, animations).
+
+script.js – Logic to display and update real-time clock.
+
+README.md – Documentation (basic project info).
+
+In index.html:
+
+A <div id="time"> holds three circular sections for hours, minutes, and seconds.
+
+Each circle has an SVG stroke animation and a dot that rotates like a clock hand.
+
+The <script src="script.js"></script> links JavaScript to update the time dynamically.
